@@ -1,0 +1,30 @@
+
+.container{
+  height: 43px;
+  color:#696c7b;
+}
+
+.lista-2 ul{
+  list-style: none;
+  display: flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.lista-2 li{
+  margin-top: 8px;
+  padding-inline-start:50px;
+  font-size : 17px;
+  line-height:25.5px;
+  color:#083d93;
+}
+.lista-2 a{
+
+  text-decoration: none;
+  color:#083d93;
+}
+.um{
+
+  color:#083d93;
+
+
+}

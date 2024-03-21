@@ -1,0 +1,23 @@
+.container{
+  height: 43px;
+  background-color: #1e2d69;
+  color:#f8f5fa ;
+}
+
+.lista ul{
+  list-style: none;
+  display: flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.lista li{
+  margin-top: 8px;
+  padding-inline-start:40px;
+  font-size : 14.875px;
+  line-height:21.2712px;
+}
+.lista a{
+  color:#f8f5fa  ;
+  text-decoration: none;
+}
+

@@ -3,10 +3,28 @@ import { BrowserModule, provideClientHydration } from '@angular/platform-browser
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { HeaderComponent } from './component/header/header.component';
+import { HomeComponent } from './component/home/home.component';
+import { CabecalhoComponent } from './component/cabecalho/cabecalho.component';
+import { MenuComponent } from './component/menu/menu.component';
+import { CarouselComponent } from './component/carousel/carousel.component';
+import { PreConteudoComponent } from './component/pre-conteudo/pre-conteudo.component';
+import { ConteudoComponent } from './component/conteudo/conteudo/conteudo.component';
+import { PlanosComponent } from './component/conteudo/planos/planos.component';
+
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HeaderComponent,
+    HomeComponent,
+    CabecalhoComponent,
+    MenuComponent,
+    CarouselComponent,
+    PreConteudoComponent,
+    ConteudoComponent,
+    PlanosComponent,
+
   ],
   imports: [
     BrowserModule,

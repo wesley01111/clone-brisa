@@ -11,6 +11,8 @@ import { CarouselComponent } from './component/carousel/carousel.component';
 import { PreConteudoComponent } from './component/pre-conteudo/pre-conteudo.component';
 import { ConteudoComponent } from './component/conteudo/conteudo/conteudo.component';
 import { PlanosComponent } from './component/conteudo/planos/planos.component';
+import { AtendimentosComponent } from './component/canais/atendimentos/atendimentos.component';
+import { OpcoesComponent } from './component/canais/opcoes/opcoes.component';
 
 
 @NgModule({
@@ -24,6 +26,8 @@ import { PlanosComponent } from './component/conteudo/planos/planos.component';
     PreConteudoComponent,
     ConteudoComponent,
     PlanosComponent,
+    AtendimentosComponent,
+    OpcoesComponent,
 
   ],
   imports: [

@@ -1,0 +1,26 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  margin-left: 59px;
+  color:#083d93 ;
+  font-family: Barlow, Poppins, sans-serif;
+}
+h1{
+  font-size:34.41px;
+  font-weight: 600;
+    margin-bottom: 32px;
+}
+p{
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+.cartaos{
+  flex-direction: column;
+}
+.cards{
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+
+}

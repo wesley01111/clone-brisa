@@ -13,6 +13,7 @@ import { ConteudoComponent } from './component/conteudo/conteudo/conteudo.compon
 import { PlanosComponent } from './component/conteudo/planos/planos.component';
 import { AtendimentosComponent } from './component/canais/atendimentos/atendimentos.component';
 import { OpcoesComponent } from './component/canais/opcoes/opcoes.component';
+import { FlooterComponent } from './component/flooter/flooter.component';
 
 
 @NgModule({
@@ -28,6 +29,7 @@ import { OpcoesComponent } from './component/canais/opcoes/opcoes.component';
     PlanosComponent,
     AtendimentosComponent,
     OpcoesComponent,
+    FlooterComponent,
 
   ],
   imports: [

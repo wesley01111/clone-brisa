@@ -1,0 +1,27 @@
+.container{
+background-color: #ffffff;
+width: 85%;
+height:170px ;
+margin-inline: auto;
+}
+.title{
+
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+}
+h1{
+  color: #f56e28;
+  text-align: start;
+}
+button{
+  color: #ffffff;
+  background-color: #f56e28;
+  border: none;
+  display: flex;
+  justify-content:center;
+}
+img{
+  width: 100%;
+  margin-top: 100px;
+}

@@ -15,6 +15,7 @@ import { AtendimentosComponent } from './component/canais/atendimentos/atendimen
 import { OpcoesComponent } from './component/canais/opcoes/opcoes.component';
 import { FlooterComponent } from './component/flooter/flooter.component';
 import { ContentComponent } from './component/home/content/content.component';
+import { MontarcomboComponent } from './component/montarcombo/montarcombo.component';
 
 
 @NgModule({
@@ -32,6 +33,7 @@ import { ContentComponent } from './component/home/content/content.component';
     OpcoesComponent,
     FlooterComponent,
     ContentComponent,
+    MontarcomboComponent,
 
   ],
   imports: [

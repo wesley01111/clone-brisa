@@ -7,11 +7,13 @@
   font-family: Barlow, Poppins, sans-serif;
 }
 h1{
+  white-space: pre-line;
   font-size:34.41px;
   font-weight: 600;
     margin-bottom: 32px;
 }
 p{
+  white-space: pre-line;
   font-size: 1.25rem;
   font-weight: 500;
 }
@@ -24,3 +26,4 @@ p{
   margin-left: 20px;
 
 }
+
